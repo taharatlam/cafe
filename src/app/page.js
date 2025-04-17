@@ -27,7 +27,7 @@ export default function Home() {
                     We use fresh, high-quality ingredients and time-honored recipes, crafting each dish with care and authenticity. From our crispy baguettes and savory fillings to refreshing drinks and comforting noodle bowls, every item on our menu tells a story of culture, comfort, and community.
                     Whether you’re dining in, grabbing a quick lunch, or ordering online, we welcome you to experience real Vietnamese flavor—served fast, fresh, and full of heart.
                   </p>
-                  <Button type="link" text="Know More" link="/" />
+                  {/* <Button type="link" text="Know More" link="/" /> */}
                 </div>
               </div>
             </div>

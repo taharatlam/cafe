@@ -50,7 +50,7 @@ const SliderSec = () => {
                                 <span>Our Menu</span>
                             </h2>
                             <h3 className='sec-head'>
-                                Banh Mi, Pho & More The Real Deal
+                                Banh Mi & More The Real Deal
                             </h3>
                         </div>
                         <span className='line'></span>

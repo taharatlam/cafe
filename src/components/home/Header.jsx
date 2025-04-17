@@ -19,7 +19,7 @@ const Header = () => {
                             Bite Into Vietnam 
                             One Banh Mi at a Time
                             </h1>
-                            <Button type='link' text='Order Now' link='/' center />
+                            <Button type='link' text='Order Now' link='/#menu' center />
                         </div>
                     </div>
                 </div>

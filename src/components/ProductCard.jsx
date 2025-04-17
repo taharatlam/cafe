@@ -12,14 +12,14 @@ const ProductCard = ( {data} ) => {
             )
         }
         </div>
-        <div className='content-part'>
+        {/* <div className='content-part'>
             <h3 className='title'>
             {data.title}
             </h3>
             <p className='para'>
             {data.description}
             </p>
-        </div>
+        </div> */}
     </div>
   )
 }

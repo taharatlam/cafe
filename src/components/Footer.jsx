@@ -22,13 +22,13 @@ const Footer = () => {
                         </h3>
                         <ul className='ft-links'>
                             <li>
-                                <Link href='/'>Home</Link>
+                                <Link href='/#about'>About</Link>
                             </li>
                             <li>
-                                <Link href='/'>About</Link>
+                                <Link href='/menu'>Menu</Link>
                             </li>
                             <li>
-                                <Link href='/'>About</Link>
+                                <Link href='/#contact'>Contact</Link>
                             </li>
                             
                         </ul>
