@@ -646,3 +646,14 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
+.footer-logo{
+    width: 120px;
+    height: auto;
+    display: block;
+
+    img{
+        width: 100%;
+        height: auto;
+        filter: invert(1) brightness(100%);
+    }
+}

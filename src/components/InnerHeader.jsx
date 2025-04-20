@@ -21,7 +21,7 @@ const InnerHeader = () => {
                                 What’s Cooking?
                                 Only the Good Stuff
                                 </h1>
-                                <Button type='link' text='Order Now' link='/' center />
+                                <Button type='link' text='Order Now' link='/#contact' center />
                             </div>
                         </div>
                     </div>

@@ -22,6 +22,9 @@ const Footer = () => {
                         </h3>
                         <ul className='ft-links'>
                             <li>
+                                <Link href='/'>Home</Link>
+                            </li>
+                            <li>
                                 <Link href='/#about'>About</Link>
                             </li>
                             <li>
@@ -33,29 +36,29 @@ const Footer = () => {
                             
                         </ul>
                     </div>
-                    <div className='col-lg-4 col-12'>
+                    <div className='col-lg-4 col-12 d'>
                         <h3 className='ft-title'>
-                            Quick Links
+                            Contact Us
                         </h3>
                         <ul className='ft-con'>
                             <li>
                                 <span>Email</span>
                                 <Link href='mailto:info@banhmiandmore.com'>info@banhmiandmore.com</Link>
                             </li>
-                            <li>
+                            {/* <li>
                                 <span>Phone</span>
                                 <Link href='tel:+1234567890'>+1234567890</Link>
                             </li>
                             <li>
                                 <span>Address</span>
                                 <span>36/2 East Shewpur, Mirpur, Dhaka</span>
-                            </li>
+                            </li> */}
                             
                         </ul>
                     </div>
                 </div>
                 <div className='ft-btm'>
-                    <p>@ 2025, Company Name, All rights reserved</p>
+                    <p>@ {new Date().getFullYear()}, Banh Mi, All rights reserved</p>
                 </div>
             </div>
         </div>
